@@ -1,2 +1,0 @@
-# sait-game
-stm-js
